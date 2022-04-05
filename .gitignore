@@ -1,0 +1,2 @@
+# Place anything sensitive into a secrets.* file eg. wifi, ip address etc
+secrets.*
